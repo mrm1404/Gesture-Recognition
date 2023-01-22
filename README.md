@@ -79,7 +79,7 @@ The loss function of this images is not getting minimized using the GRU layer.
 <li> Image Dimensions: 120 x 160
 <li> No of Image Indexes Used: 10 
 <li> Epochs: 20
-<ul>
+</ul>
 
 #### Result: 
 Training Accuracy: 0.9532 Validation Accuracy: 0.8000
